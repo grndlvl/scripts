@@ -1,0 +1,13 @@
+Scripts I accumulated over time and use all the time.
+
+# pwgen.pl #
+Generates random passwords
+
+# fakeadd.sh #
+Used to "fake" check-in files to CVS so that you may diff new changes.
+
+# provsite.sh #
+Provisions a new site for development locally.
+
+# clean_db.sh #
+Removes all tables in a single mysqldb
