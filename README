@@ -1,7 +1,7 @@
 Scripts I accumulated over time and use all the time.
 
 # pwgen.pl #
-Generates random passwords
+Generates random passwords.
 
 # fakeadd.sh #
 Used to "fake" check-in files to CVS so that you may diff new changes.
@@ -10,4 +10,7 @@ Used to "fake" check-in files to CVS so that you may diff new changes.
 Provisions a new site for development locally.
 
 # clean_db.sh #
-Removes all tables in a single mysqldb
+Removes all tables in a single mysqldb.
+
+# advimportdb.sh #
+Imports a db from a remote server.
